@@ -11,11 +11,6 @@ Then open the randomizer, and in the "Player Customization" tab click "Install a
 * Ikey Ilex: Modeled, rigged and imported Sans and Lucario; rigged and imported Poor Mila.
 * Laenthor ([Youtube](https://www.youtube.com/channel/UCIWlBco_-iHpQZfmUaYbxpg)): Rigged and imported Fado, Aryll, and Goku.
 * InTheBeef ([@InTheBeef](https://twitter.com/InTheBeef)): Rigged and imported Cheerleader Link, Zora Link, Saria, and ToonFlips.
-* Windwalker14: Rigged and imported Fox Link.
-* Praecipua ([@PraecipuaWW](https://twitter.com/PraecipuaWW)): Imported voices for Medli/Colette.
-* KromosRuby ([DeviantArt](https://www.deviantart.com/kromosruby)): Modeled Saria.
-* wooferzfg ([@wooferzfg](https://twitter.com/wooferzfg)): Imported voices for Sans.
-* Follyknight: Rigged and imported Grandma.
 * TemperedCreator ([@seanos1998](https://twitter.com/seanos1998)): Rigged and imported Din.
 * FrasseFreak: Rigged and imported Poor Maggie, Tingle, and Mrs. Marie. Imported voices for Tetra.
 * YADUNDED ([@yadundev](https://twitter.com/yadundev)): Rigged and imported Kass, Shaggy, Vaati, Beedle, and DS Link.
